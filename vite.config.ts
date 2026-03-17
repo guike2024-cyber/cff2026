@@ -156,9 +156,9 @@ export default defineConfig({
   plugins,
   resolve: {
     alias: {
-      "@": "./src",
-      "@shared": "./shared",
-      "@assets": "./attached_assets",
+      "@": "/src",
+      "@shared": "/shared",
+      "@assets": "/attached_assets",
     },
   },
   root: "./",           
