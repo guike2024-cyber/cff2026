@@ -1,0 +1,32 @@
+# Project TODO
+
+- [x] Basic homepage layout with hero, strengths, products, massage areas, CTA
+- [x] Multi-language support (EN, ZH, KO, AR)
+- [x] Social media links integration (Instagram, Facebook, LinkedIn, YouTube)
+- [x] Remove Twitter icon
+- [x] Upgrade to web-db-user (backend + database)
+- [x] Gmail SMTP integration for contact form
+- [x] Show success message on page after contact form submission
+- [x] Adjust product category buttons order: All Products, Head Massagers, Neck Massagers, Back Massagers, Waist Massagers, Hand Massagers, Knee Massagers, Foot Massagers, Massage Guns, Fat burning Massagers
+- [x] Remove Whole Body Massagers button from products page
+- [x] Adjust product card counts: All Products (16), Head Massagers (2), Neck Massagers (3), Back Massagers (2), Waist Massagers (2), Hand Massagers (1), Knee Massagers (1), Foot Massagers (1), Massage Guns (3), Fat burning Massagers (1)
+- [x] Create product detail pages for Head Massagers (Head Massager Pro and Head Massager Deluxe) with technical specs and usage instructions
+- [x] Remove language switch button and set website to English only
+- [x] Remove user reviews from product detail pages
+- [x] Create product detail pages for Neck Massagers (3 products: Neck Massager Elite, Neck Massager Pro, Neck Massager Comfort) with technical specs and usage instructions
+- [x] Remove Usage Instructions and Safety & Care tabs from product detail pages
+- [x] Create product detail pages for Back Massagers (2 products: Back Massager Plus and Back Massager Pro) with technical specs and features
+- [x] Create product detail pages for Waist Massagers (2 products: Waist Massager Smart and Waist Massager Pro) with technical specs and features
+- [x] Remove waterproof field from Technical Specs in all product detail pages
+- [x] Create product detail page for Hand Massagers (1 product: Hand Massager Pro) with technical specs and features
+- [x] Create product detail page for Knee Massagers (1 product: Knee Massager Therapy) with technical specs and features
+- [x] Create product detail page for Foot Massagers (1 product: Foot Massager Comfort) with technical specs and features
+- [x] Create product detail pages for Massage Guns (3 products: Professional Massage Gun, Massage Gun Elite, Massage Gun Pro) with technical specs and features
+- [x] Create product detail page for Fat burning Massagers (1 product: Fat Burning Massager) with technical specs and features
+- [x] Add Blog link to navigation menu
+- [x] Create Blog page with Google Blog feed integration
+- [x] Embed entire Google Blog using iframe in Blog page
+- [x] Add navigation bar to Blog page
+- [x] Add background image to Contact Us section on Contact page
+- [x] Add background image to About Aojiang Tech section on About Us page
+- [x] Add image zoom and swipe functionality to all product images
