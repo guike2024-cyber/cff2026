@@ -155,10 +155,10 @@ const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime(
 export default defineConfig({
   plugins,
   resolve: {
-    alias: { 
-      "@": path.resolve(import.meta.dirname, "src"), 
-      "@shared": path.resolve(import.meta.dirname, "shared"),
-      "@assets": path.resolve(import.meta.dirname, "attached_assets"),
+    alias: {
+      "@": "./src",
+      "@shared": "./shared",
+      "@assets": "./attached_assets",
     },
   },
   root: "./",           
